@@ -22,6 +22,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=kurapika12&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Kurapika12&label=Profile%20Views&color=8&icon=5&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=kurapika12&label=Profile%20Views&color=2&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
