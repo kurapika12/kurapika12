@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @kurapika12<br>- 🏔️ I’m interested in mountains<br>- 🌱 I’m currently learning improve my self for the better<br>- 💞️ I’m looking to collaborate on with everyone<br>- 💵 How to reach me : You can contact me when you bring 1,000,000 Dollars<br>- 😄 Pronouns : happy<br>- 👦 Fun fact : I am a man
+- 👋 Hi, I’m @kurapika12<br>- 💻 Cyber Security Enthusiast<br>- 🌱 I’m currently learning improve my self for the better<br>- 💞️ I’m looking to collaborate on with everyone<br>- 💵 How to reach me : You can contact me when you bring 1,000,000 Dollars<br>- 😄 Pronouns : happy<br>- 👦 Fun fact : I am a man
 
 
 ## 🌐 Socials:
