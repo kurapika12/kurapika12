@@ -1,7 +1,7 @@
 ![KurapikaHeader](img/header.png)
 
 <div align="center">
-  <img height="500" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm44dGdkdjE1eWx6ZmZhaXc1dW1yb2o4bXo0ZXJ3MGpmNzlveHV4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ue71cDTp3HRKg/giphy.gif"  />
+  <img height="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm44dGdkdjE1eWx6ZmZhaXc1dW1yb2o4bXo0ZXJ3MGpmNzlveHV4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ue71cDTp3HRKg/giphy.gif"  />
 </div>
 
 ### ✍️ Random Dev Quote
